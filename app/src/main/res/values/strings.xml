@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="pi">What is the value of pi?</string>
+    <string name="pi_answer_one">3.14</string>
+    <string name="pi_answer_two">3.16</string>
+    <string name="add">4 + 1?</string>
+    <string name="add_answer_one">4</string>
+    <string name="add_answer_two">5</string>
+    <string name="robin">For which field was Robin Williams known?</string>
+    <string name="robin_answer_one">Nobel winning author</string>
+    <string name="robin_answer_two">Music composer</string>
+    <string name="robin_answer_three">Actor and Comedian</string>
+    <string name="robin_answer_four">None of these</string>
+    <string name="google">When did Google purchase Android Inc.?</string>
+    <string name="google_answer_one">2005</string>
+    <string name="google_answer_two">2001</string>
+    <string name="google_answer_three">2008 </string>
+    <string name="google_answer_four">None of these</string>
+    <string name="sub">4 - 1?</string>
+</resources>
